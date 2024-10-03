@@ -1,6 +1,6 @@
 <link rel='stylesheet' href='notes.css'>
 
-# Rust
+# Rust Ch_1-3
 
 ## Ch_1
 
@@ -615,5 +615,3 @@ fn main() {
     }
 }
 ```
-
-## ch_3- Understanding Ownership
